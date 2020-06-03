@@ -19,7 +19,7 @@ public class Zadatak01 {
 			System.out.println(broj2);
 		}
 		
-		if(broj3>broj1 & broj3>broj1) {
+		if(broj3>broj1 & broj3>broj2) {
 			
 			System.out.println(broj3);
 			
