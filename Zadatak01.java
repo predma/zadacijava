@@ -29,6 +29,9 @@ public class Zadatak01 {
 			System.out.println(broj1); 
 		}
 		
+		//inline if: korištenje ? operatora
+		//u slučaju da if i else imaju poziv
+		//iste metode s različitim vrijednostima
 		
 		
 		
