@@ -25,6 +25,10 @@ public class Zadatak01 {
 			
 		}
 		
+		if(broj1==broj2 && broj1==broj2 && broj1==broj3) {
+			System.out.println(broj1); 
+		}
+		
 	}
 
 }
